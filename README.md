@@ -1,6 +1,10 @@
 # Blockchain example with reactjs , ganache , truffle , smartcontract example for beginners
 
+# ganache  :
+1. install and start ganache on your local network 
+2. from its settings frin the port and local hostedd details 
 
+# start truffle 
 1. Create a project folder with project name 
  2. inside the project folder first initialize truffle
 
